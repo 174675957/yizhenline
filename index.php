@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo 'aaaaaa';
+            echo '撒旦噶速度发杀敌噶斯蒂芬';
         ?>
     </body>
 </html>
